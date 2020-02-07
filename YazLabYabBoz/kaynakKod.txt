@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/13625891/cut-an-image-into-9-pieces-c-
+
+resmi deðiþtirmek istersen 
+\YazLabYabBoz\YazLabYabBoz\bin\Debug içinde kou.jpeg var onu deðiþtir.
