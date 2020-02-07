@@ -1,4 +1,4 @@
 https://stackoverflow.com/questions/13625891/cut-an-image-into-9-pieces-c-
 
-resmi değiştirmek istersen 
-\YazLabYabBoz\YazLabYabBoz\bin\Debug içinde kou.jpeg var onu değiştir.
+resmi deÄŸiÅŸtirmek istersek 
+\YazLabYabBoz\YazLabYabBoz\bin\Debug iÃ§inde kou.jpeg var onu deÄŸiÅŸtiririz.
