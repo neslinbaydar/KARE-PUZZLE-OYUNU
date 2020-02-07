@@ -1,7 +1,5 @@
 # KARE-PUZZLE-OYUNU
-square_puzzle 
 PROJE BAŞLIĞI:KARE PUZZLE OYUNU
-
 Projeyi çalıştırmak için hangi programlar gerekli:
 
 C# dili kullanılarak Visual Studio 2017 Sürümünde Windows Form Uygulamasında proje geliştirildi.
