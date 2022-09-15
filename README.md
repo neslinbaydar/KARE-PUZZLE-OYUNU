@@ -21,7 +21,7 @@ Then the user can start playing the game by pressing the shuffle button.
 5) If the user wants, he can choose a picture with a different extension and a different size for the puzzle from the img file.
 The program performs scaling according to the selected image.
 
-**Explanation in Turkish**
+**Explanation in Turkish** :
 
 PROJE BAŞLIĞI:KARE PUZZLE OYUNU
 
